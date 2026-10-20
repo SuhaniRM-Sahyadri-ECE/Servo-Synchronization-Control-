@@ -1,4 +1,4 @@
-##Servo Synchronization Control for Workpiece Transfer on a Moving Conveyor
+Servo Synchronization Control for Workpiece Transfer on a Moving Conveyor
 
 1. Project Overview
 
