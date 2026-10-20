@@ -22,6 +22,10 @@ The system receives the conveyor speed reference and measures the actual servo s
 
 The control logic is designed using IEC 61131-3 PLC programming principles and can be represented using Ladder Diagram (LD) or Structured Text (ST).
 
+### System Architecture
+<img width="881" height="1083" alt="image" src="https://github.com/user-attachments/assets/d6e292f3-505f-4c6d-bc58-dfaccc47402c" />
+
+
 ## 4. Control Logic and PID Controller
 
 The synchronization error is calculated as:
@@ -108,10 +112,3 @@ This project presents a simplified simulation of these industrial control challe
 - Implement the control logic on a physical PLC and servo drive.
 - Validate simulation results using experimental hardware measurements.
 
-## Author
-
-**Suhani RM**
-
-Electronics and Communication Engineering
-
-**Project:** Servo Synchronization Control for Workpiece Transfer on a Moving Conveyor
